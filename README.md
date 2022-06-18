@@ -2,7 +2,7 @@
 
 ## About App
 
-a simple dynamic input field with laravel and vue
+a simple multistep form with laravel and vue
 
 ## How to use
 
